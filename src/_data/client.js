@@ -1,19 +1,19 @@
 module.exports = {
-    "name": "Code Stitch Web Designs",
-    "email": "help@codestitch.app",
+    "name": "Philippine Business Society of Alberta",
+    "email": "info@pbsalberta.com",
     "phoneForTel": "555-779-4407",
     "phoneFormatted": "(555) 779-4407",
     "address": {
         "lineOne": "First Address Line",
         "lineTwo": "Second Address Line",
-        "city": "Denver",
-        "state": "CO",
-        "zip": "80206",
-        "country": "US",
-        "mapLink": "https://maps.app.goo.gl/TEdS5KoLC9ZcULuQ6"
+        "city": "Edmonton",
+        "state": "Alberta",
+        "zip": "T5T 4J5",
+        "country": "Canada",
+        "mapLink": "https://www.google.com/maps/place/6650+177+St+NW,+Edmonton,+AB+T5T+4J5"
     },
     "socials": {
-        "facebook": "https://www.facebook.com/",
+        "facebook": "https://www.facebook.com/PhilippineBusinessSocietyofAlberta",
         "instagram": "https://www.instagram.com/",
     },
     //! Make sure you include the file protocol (e.g. https://) and that NO TRAILING SLASH is included
